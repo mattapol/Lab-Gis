@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx version="1.0" creator="QGIS">
+<wpt lat="16.749796099969" lon="100.190962993519">
+<urlname>Digitized in QGIS</urlname>
+</wpt>
+<wpt lat="16.749590888718" lon="100.190897325919">
+<urlname>Digitized in QGIS</urlname>
+</wpt>
+<wpt lat="16.749359410427" lon="100.191311031801">
+<urlname>Digitized in QGIS</urlname>
+</wpt>
+<wpt lat="16.749387319157" lon="100.191491617701">
+<urlname>Digitized in QGIS</urlname>
+</wpt>
+<wpt lat="16.749564621678" lon="100.191406249821">
+<urlname>Digitized in QGIS</urlname>
+</wpt>
+<wpt lat="16.749507162528" lon="100.191276556311">
+<urlname>Digitized in QGIS</urlname>
+</wpt>
+<rte>
+<url>Digitized in QGIS</url>
+<rtept lat="16.749860125879" lon="100.190831658319">
+</rtept>
+<rtept lat="16.749490745628" lon="100.191539226712">
+</rtept>
+<rtept lat="16.749298667897" lon="100.191419383341">
+</rtept>
+<rtept lat="16.749672973219" lon="100.190720023398">
+</rtept>
+<rtept lat="16.749860125879" lon="100.190830016629">
+</rtept>
+</rte>
+<trk>
+<url>Digitized in QGIS</url>
+<trkseg>
+<trkpt lat="16.749640139418" lon="100.191217455470">
+</trkpt>
+<trkpt lat="16.749628647588" lon="100.191250289270">
+</trkpt>
+<trkpt lat="16.749610588998" lon="100.191283123071">
+</trkpt>
+<trkpt lat="16.749582680268" lon="100.191319240251">
+</trkpt>
+<trkpt lat="16.749558054918" lon="100.191365207571">
+</trkpt>
+<trkpt lat="16.749546563088" lon="100.191394757991">
+</trkpt>
+<trkpt lat="16.749536712948" lon="100.191417741651">
+</trkpt>
+<trkpt lat="16.749520296048" lon="100.191442367001">
+</trkpt>
+<trkpt lat="16.749502237458" lon="100.191470275731">
+</trkpt>
+<trkpt lat="16.749489103938" lon="100.191494901081">
+</trkpt>
+<trkpt lat="16.749477612108" lon="100.191494901081">
+</trkpt>
+<trkpt lat="16.749451345068" lon="100.191480125871">
+</trkpt>
+<trkpt lat="16.749421794648" lon="100.191466992351">
+</trkpt>
+<trkpt lat="16.749398810987" lon="100.191455500521">
+</trkpt>
+<trkpt lat="16.749374185637" lon="100.191439083621">
+</trkpt>
+<trkpt lat="16.749351201977" lon="100.191421025031">
+</trkpt>
+<trkpt lat="16.749346276907" lon="100.191396399681">
+</trkpt>
+<trkpt lat="16.749367618877" lon="100.191342223911">
+</trkpt>
+<trkpt lat="16.749388960847" lon="100.191309390111">
+</trkpt>
+<trkpt lat="16.749415227888" lon="100.191271631241">
+</trkpt>
+<trkpt lat="16.749436569858" lon="100.191233872370">
+</trkpt>
+<trkpt lat="16.749454628448" lon="100.191196113500">
+</trkpt>
+<trkpt lat="16.749474328728" lon="100.191164921390">
+</trkpt>
+<trkpt lat="16.749484178868" lon="100.191141937730">
+</trkpt>
+<trkpt lat="16.749498954078" lon="100.191125520830">
+</trkpt>
+<trkpt lat="16.749526862808" lon="100.191146862800">
+</trkpt>
+<trkpt lat="16.749543279708" lon="100.191155071250">
+</trkpt>
+<trkpt lat="16.749564621678" lon="100.191171488150">
+</trkpt>
+<trkpt lat="16.749595813788" lon="100.191184621670">
+</trkpt>
+<trkpt lat="16.749617155758" lon="100.191194471810">
+</trkpt>
+<trkpt lat="16.749636856038" lon="100.191209247020">
+</trkpt>
+<trkpt lat="16.749645064488" lon="100.191214172090">
+</trkpt>
+<trkpt lat="16.749645064488" lon="100.191214172090">
+</trkpt>
+</trkseg>
+</trk>
+</gpx>
